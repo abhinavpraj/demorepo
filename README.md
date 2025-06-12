@@ -1,4 +1,4 @@
 # demorepo
 First Git Repository.
 <br>
-Author - Abhinav Prajapati
+Author - Abhinav Prajapati (BITS Pilani)
