@@ -1,2 +1,3 @@
-# Demorepo
-First Git Repo
+# demorepo
+This is my first Git repository.
+Author- abhinavpraj
