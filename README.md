@@ -1,4 +1,4 @@
 # demorepo
 This is my first Git repository.
 <br>
-Author- abhinavpraj
+Author- abhinav prajapati
